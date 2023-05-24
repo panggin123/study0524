@@ -7,6 +7,9 @@ public class Esc0524 {
 
 		System.out.println("HelloWord");
 		
+		boolean e = true;
+		boolean f = false;
+		
 		int a = 1;
 		int b;
 		b = 2;
