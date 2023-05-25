@@ -18,7 +18,7 @@ public class TrBoolean {
 		*/
 
 		int a=sc.nextInt();
-
+		
 		
 		
 		
@@ -31,8 +31,10 @@ public class TrBoolean {
 		*/
 		
 		
-		if(a==10 ){
+		if(a<10 ){
 			System.out.println("a");
+		}else if(a==10){
+			System.out.println("b");
 		}else {
 			System.out.println("답이 아닙니다.");
 		}
