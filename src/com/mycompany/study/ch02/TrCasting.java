@@ -28,7 +28,7 @@ public class TrCasting {
 		System.out.println("stringVar:" + stringVar);
 		
 		int intVar2 = Integer.parseInt(stringVar);
-		System.out.println("intVar:" + intVar);
+		System.out.println("intVar:" + intVar2);
 	}
 
 }
