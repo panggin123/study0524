@@ -24,6 +24,9 @@ public class TrCasting {
 		byte byteVar = (byte)shortVar;
 		System.out.println("byteVar:" + byteVar);
 		
+		System.out.println("----------------------------");
+		
+		
 		String stringVar = String.valueOf(intVar);
 		System.out.println("stringVar:" + stringVar);
 		
