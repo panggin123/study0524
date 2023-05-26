@@ -33,45 +33,11 @@ public class TrCasting {
 		int intVar2 = Integer.parseInt(stringVar);
 		System.out.println("intVar:" + intVar2);
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 		
 		System.out.println("-------------------------------------");
 		
-		
-		
-		
-		
-		
+
 		
 		String stringVar2 = String.valueOf(intVar);
 		System.out.println("stringVar2:" + stringVar2);
