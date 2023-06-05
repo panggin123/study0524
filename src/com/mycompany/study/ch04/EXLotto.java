@@ -30,7 +30,7 @@ public class EXLotto {
 		
 		//추출된 값 String으로 변환
 		
-		//기존 값들 과 비고
+		//기존 값들 과 비교
 		
 		//최종판단
 		
