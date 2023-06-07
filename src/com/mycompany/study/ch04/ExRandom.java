@@ -17,10 +17,16 @@ public class ExRandom {
 		int random = (int)((Math.random()* (max - min)) + min);
 		System.out.println("random:" + random);
 		
-		for(int i=0; i<=1;i++) {
-			random = min+max;
-			System.out.println(random+random);
-		}
+//		for(int i=0; i<=1;i++) {
+//			random = min+max;
+//			System.out.println(random);
+//		}
+		
+		
+//		1.JDK
+//		2.SUper
+//		3.me
+		
 	}
 
 }

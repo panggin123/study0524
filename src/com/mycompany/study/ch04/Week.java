@@ -1,7 +1,7 @@
 package com.mycompany.study.ch04;
 
-public enum Week {
-	MONDAY,
+public enum Week {//code group
+	MONDAY,//code   열거형 상수
 	TUESDAY,
 	WEDNESDAY,
 	THURSDAY,
