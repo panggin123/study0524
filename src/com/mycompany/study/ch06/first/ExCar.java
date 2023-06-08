@@ -8,7 +8,7 @@ public class ExCar {
 		int a = 1;
 		System.out.println(a);
 		
-		Car car = new Car();	// 생성
+		Car car = new Car();	// 생성 (기본 생성자)
 		
 		// 이하 사용
 		System.out.println("car.engine"+ " " + car.engine);
