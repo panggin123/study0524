@@ -15,6 +15,15 @@ public class Nath {
 		int y = a * b;
 		return y;
 	}
-	
+	public String name(String name) {
+		String result;
+		
+		if(name.equals("장원영")) {
+			result = "Tony";
+		}else {
+			result = "몰라";
+		}
+		return result;
+	}
 
 }
