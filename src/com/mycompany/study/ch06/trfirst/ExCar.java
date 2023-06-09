@@ -12,7 +12,6 @@ public class ExCar {
 		Car car3 = new Car(10,"우라칸","빨강","람보르기니");
 		
 		
-
 		System.out.println("car.engine:"+car.engine);
 		System.out.println("car.name:"+car.name);
 		System.out.println("car.color"+car.color);
@@ -27,6 +26,7 @@ public class ExCar {
 		System.out.println("car3.name:"+car3.name);
 		System.out.println("car3.color"+car3.color);
 		System.out.println("car3.company"+car3.company);
+		System.out.println("------------------------");
 	}
 
 }
