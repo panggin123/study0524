@@ -16,7 +16,7 @@ public class ExEunmWeek {
 		week= Week.MONDAY;
 		
 		System.out.println(abc);
-		
+		System.out.println();
 	}
 
 }
