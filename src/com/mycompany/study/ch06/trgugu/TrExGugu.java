@@ -12,7 +12,10 @@ public class TrExGugu {
 //		int result = scanner.nextInt();
 //		System.out.println("result:" + result);
 
+    }
+
+
 		
 		}
 
-}
+
