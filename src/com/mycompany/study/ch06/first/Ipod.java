@@ -18,4 +18,17 @@ public class Ipod {
 	}
 	
 	Car car = new Car();
+	
+	
+	int season2 = 10;
+	String name2 = "안녕";
+	String home2 = "월드";
+	String color2 = "노랑";
+	
+	void red() {
+		System.out.println("빨강");
+	}
+	void yellow() {
+		System.out.println("노랑");
+	}
 }

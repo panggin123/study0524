@@ -19,7 +19,6 @@ public class ExCar {
 		car.go();
 		car.back();
 		
-		
 		Ipod ipod = new Ipod();
 		
 		System.out.println(ipod.season);
@@ -29,6 +28,26 @@ public class ExCar {
 		
 		ipod.buttonUp();
 		ipod.buttonDown();
+		
+		
+		
+		//Car car = new Car();
+		
+		System.out.println(car.engine1);
+		System.out.println(car.name1);
+		System.out.println(car.color1);
+		System.out.println(car.company1);
+		
+		car.down();
+		car.up();
+		
+		System.out.println(ipod.name2);
+		System.out.println(ipod.color2);
+		System.out.println(ipod.season2);
+		System.out.println(ipod.home2);
+		
+		ipod.red();
+		ipod.yellow();
 	}
 
 }

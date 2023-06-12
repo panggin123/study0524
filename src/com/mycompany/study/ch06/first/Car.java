@@ -17,4 +17,17 @@ public class Car {
 		System.out.println("뒤로 갑니다.");
 	}
 	
+	
+	int engine1 = 4;
+	String name1 = "벤츠";
+	String color1 = "빨강";
+	String company1 = "벤츠";
+	
+	void down() {
+		System.out.println("아래");
+	}
+	void up() {
+		System.out.println("위");
+	}
+	
 }
