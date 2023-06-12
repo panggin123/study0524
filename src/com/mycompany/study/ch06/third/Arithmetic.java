@@ -1,5 +1,7 @@
 package com.mycompany.study.ch06.third;
 
+import com.mycompany.study.ch04.ExWhile_test;
+
 public class Arithmetic {
 
 	// 더하기 함수 (피연사자는 2개로 한정) 선언
@@ -47,7 +49,17 @@ public class Arithmetic {
 	public int taken() {
 		
 		return 10000;
+		
+		
+		
+		
+		
 	}
+	
+	
+	
+	
+	
 	}
 		
 

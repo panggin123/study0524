@@ -28,6 +28,8 @@ public class ExArithmetic {
 	
 	int result3 = arithmetic.taken();
 	System.out.println("result3:"+result3);
+	
+
 	}
 
 	
