@@ -1,10 +1,16 @@
 package com.mycompany.study.ch07.third;
 
-public class SmartPhone {
+public class SmartPhone extends Phone{
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public SmartPhone(String owner) {
+		super(owner);
 	}
-
+	public void internetSearch() {
+		System.out.println("internetSearch");
+	}
+	
+	@Override
+	public void open() {
+		System.out.println("open()");
+	}
 }
