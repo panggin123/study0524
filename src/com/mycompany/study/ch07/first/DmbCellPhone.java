@@ -30,6 +30,8 @@ public class DmbCellPhone extends CellPhone{
 	
 	@Override
 	void powerOn(int a) {
-		
+	// 오버라이드	
+		// 오버로드의 내용을 바꾸기 위해 필요
+		System.out.println("ㅎㅇㅎㅇㅎㅇㅎㅇㅎ");
 	}
 }

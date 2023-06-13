@@ -18,5 +18,6 @@ public class CellPhone {
 	void sendVoice(String message) { System.out.println("자기: " + message); }	
 	void receiveVoice(String message) { System.out.println("상대방: " + message); }	
 	void hangUp() { System.out.println("전화를 끊습니다."); }
-	void powerOn(int a) {}
+	void powerOn(int a) {System.out.println("전원을 켭니다2");}
+	// 오버로드
 }
