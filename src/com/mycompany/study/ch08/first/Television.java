@@ -13,6 +13,10 @@ private int volume;
 	public void turnOff() {
 		System.out.println("TV를 끕니다.");
 	}
+//	@Override
+//	public void setMute() {
+//		System.out.println("안녕하세요");
+//	}
 	
 	@Override
 	public void setVolume(int volume){
