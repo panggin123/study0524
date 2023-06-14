@@ -1,7 +1,7 @@
 package com.mycompany.study.ch08.first;
 
 public interface RemoteControl {
-	
+
 	public static final int MAX_VOLUME = 10;
 	int MIN_VOLUME = 0; 		// public static final 생략 가능
 	final String name = "ansdf";
@@ -26,5 +26,4 @@ public interface RemoteControl {
 	static void changeBattery() {
 		System.out.println("건전지를 교환합니다.");
 	}
-	
 }
