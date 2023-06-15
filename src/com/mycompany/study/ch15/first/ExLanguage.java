@@ -24,12 +24,21 @@ public class ExLanguage {
 		Language language = new Language("JAVA", 11);
 		
 		arrayList.add(language);
+		arrayList.add(new Language("Python", 8));
+		arrayList.add(new Language("C#", 6));
 
 		for(Language a:arrayList) {
 			System.out.println("language.name:"+ a.name);
 			System.out.println("language.version:"+ a.version);
 			System.out.println("----------------------");
 		}
+		
+		
+		
+		
+		
+		
+		
 		
 //		
 //		ArrayList<Language>arrayList = new ArrayList<Language>();
@@ -53,7 +62,7 @@ public class ExLanguage {
 //		List<String>list = new ArrayList<String>(); //generic
 //		String[]a;
 //		List<String>list = new LinkedList<String>();       
-//		
+		
 //		list.add("JAVA");
 //		list.add("Python");
 //		list.add("Node");
@@ -61,10 +70,10 @@ public class ExLanguage {
 //		
 //		
 //		//size 데이터 총합 Array에 들어있는
-////		for(int i=0; i<list.size();i++) {
-////			System.out.println("list.get("+i+"):" +list.get(i));
-////		}
-////		System.out.println("-------------------");
+//		for(int i=0; i<list.size();i++) {
+//			System.out.println("list.get("+i+"):" +list.get(i));
+//		}
+//		System.out.println("-------------------");
 //		
 //		int i=0;
 //		for(String a:list) {
