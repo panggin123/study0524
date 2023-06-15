@@ -33,7 +33,7 @@ public class ExLanguage {
 		}
 		
 		
-		
+		list.remove(2);
 		
 
 		
