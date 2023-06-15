@@ -6,5 +6,5 @@
  *
  */
 module study0524 {
-	
+	requires java.desktop;
 }
