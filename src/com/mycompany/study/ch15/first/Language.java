@@ -6,8 +6,8 @@ public class Language {
 	public int version;
 	
 	Language (String name, int version){
-		this.name = "JAVA";
-		this.version = 11;
+		this.name = name;
+		this.version = version;
 	}
 	
 }

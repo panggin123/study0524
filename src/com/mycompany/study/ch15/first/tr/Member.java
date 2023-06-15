@@ -9,7 +9,7 @@ public class Member {
 	public String adderss;
 	public String phone;
 	
-	Member (String name, String ID, String PassWrod, String adderss, String Phone){
+	Member (String name, String ID, String adderss,String pwd, String phone){
 		this.name = name;
 
 		this.ID = ID;
