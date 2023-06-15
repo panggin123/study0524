@@ -1,14 +1,14 @@
 package com.mycompany.study.ch15.first;
 
-import java.util.Vector;
+import java.util.ArrayList;
 
 public class ExLanguage {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		Vector<Language>arrayList = new Vector<Language>();
-//		ArrayList<Language>arrayList = new ArrayList<Language>();
+		ArrayList<Language>arrayList = new ArrayList<Language>();
+//		Vector<Language>arrayList = new Vector<Language>();
 		
 		for(Language language:arrayList) {
 			System.out.println("language.name:"+language.name);
