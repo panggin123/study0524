@@ -6,9 +6,10 @@ public class ComputerExample {
 		// TODO Auto-generated method stub
 
 		int r =7;
-		
+		// 변수 값 설정
 		Calculator calculator = new Calculator();
 		Computer computer = new Computer();
+		// Car car = new Car();
 		
 
 		System.out.println("원의 반지름:" + r);
