@@ -4,6 +4,6 @@ public class Calculator {
 
 	public double ci(double r) {
 		
-		return r * r* Constants.PA_1;
+		return r * r* Constants.PA_1; 
 	}
 }
